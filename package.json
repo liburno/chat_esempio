@@ -8,7 +8,6 @@
     "serve": "nodemon server.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
     "liburno_bklib": "^3.0.15",
     "socket.io": "^4.1.2"
   },
